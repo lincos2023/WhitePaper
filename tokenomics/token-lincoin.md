@@ -1,0 +1,4 @@
+# 🛠 Token Lincoin
+
+<table><thead><tr><th width="198" align="center">Network</th><th align="center">ETHEREUM Blockchain</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Total supply</td><td align="center">21,000,000,000 (21B)</td><td></td></tr><tr><td align="center">Token name</td><td align="center">LINCOIN</td><td></td></tr><tr><td align="center">Ticker</td><td align="center">LCN</td><td></td></tr><tr><td align="center">Smart Contract</td><td align="center"><a href="https://etherscan.io/token/0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E">0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E</a></td><td></td></tr><tr><td align="center">Chart</td><td align="center"><a href="https://www.dextools.io/app/en/ether/pair-explorer/0x83d9b9afd0487b3bdfeb38b5f015c3f3e649d69e"><strong>https://www.dextools.io/app/en/ether/pair-explorer/0x83d9b9afd0487b3bdfeb38b5f015c3f3e649d69e</strong></a></td><td></td></tr></tbody></table>
+
